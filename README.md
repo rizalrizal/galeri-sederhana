@@ -4,12 +4,13 @@
 
 Aplikasi Galeri Gambar
 
-Fitur :
+### Fitur :
+
 - Upload Gambar
 - Menampilkan Gambar
 - Memperbesar Gambar
 
 ### Preview
 
-![preview](https://raw.githubusercontent.com/rizalrizal/CEK-TYPO/master/preview.png "preview")
+![preview](https://raw.githubusercontent.com/rizalrizal/galeri-sederhana/master/preview.jpg "preview")
 
