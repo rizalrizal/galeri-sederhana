@@ -36,7 +36,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Galery</title>
+	<title>Galeri Gambar</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<!-- Font -->
 	 <link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Roboto">
@@ -186,7 +186,7 @@
 </head>
 <body>
 <div class="container">
-<h1>Image Gallery</h1>
+<h1>Galeri Gambar</h1>
 
 <center>
 <?php 
